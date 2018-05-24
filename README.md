@@ -1,6 +1,6 @@
 # SQL Salon
 
-
+SQL Tutorial on Thu, May 24, 2018
 
 ## Summary of topics
 
@@ -23,7 +23,7 @@
 
 ## Code Examples
 
-We will be using http://sqlfiddle.com to do all exercises, with sample SQL files`all.sql` and others in the repo
+We will be using http://sqlfiddle.com to do all exercises, with sample SQL files`all.sql` and others in the repo.
 
 
 
